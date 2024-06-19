@@ -1,0 +1,29 @@
+{
+    "name":"Rajesh",
+    "dob":"2020-09-09",
+    "address": {
+        "address-line1":"Bommuluru",
+        "address-line2":"Bommuluru",
+        "city":"Gudivada"
+
+    }
+}
+
+{
+    "name": "Rajesh",
+    "dob": "2020-09-09",
+    "address": [
+      {
+        "address-line1": "Bommuluru",
+        "address-line2": "Bommuluru",
+        "city": "Gudivada",
+        "type": "home"
+      },
+      {
+        "address-line1": "Bommuluru",
+        "address-line2": "Bommuluru",
+        "city": "Gudivada",
+        "type": "office"
+      }
+    ]
+  }

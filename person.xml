@@ -1,0 +1,29 @@
+<person>
+    <name>rajesh</name>
+    <DOB>1995-01-08</DOB> 
+    <Adress>
+        <address-line1>Bommuluru</address-line1>
+        <address-line2>Bommuluru</address-line2>
+        <city>Gudivada</city>
+    </Adress>
+</person>
+
+
+<person>
+    <name>rajesh</name>
+    <DOB>1995-01-08</DOB> 
+    <Adress>
+        <HomeAddress>
+            <address-line1>Bommuluru</address-line1>
+            <address-line2>Bommuluru</address-line2>
+            <city>Gudivada</city>
+        </HomeAddress>
+        <OfficeAddress>
+            <address-line1>Bommuluru</address-line1>
+            <address-line2>Bommuluru</address-line2>
+            <city>Gudivada</city>
+        </HomeAddress>  
+    </Adress>
+</person>
+
+

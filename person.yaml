@@ -1,0 +1,20 @@
+- name: Rajesh
+  dob:"2023-09-09"
+  address:
+    address-line1:vinayak street
+    address-line2:bommuluru
+    city:gudivada
+  email:rajeshveeranki478@gmail.com
+
+- name:Ramesh
+  dob:"2023-09-09"
+  address:
+  - address-line1:vinayak street1
+    address-line2:bommuluru1
+    city:gudivada
+  - address-line1:vinayak street2
+    address-line2:bommuluru2
+    city:gudivada
+  email:rajeshveeranki478@gmail.com
+
+    
